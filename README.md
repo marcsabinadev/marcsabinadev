@@ -57,7 +57,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
   
 | Proyecto | Tecnologías | Descripción | Enlace |
 |----------|------------|-------------|--------|
-| **[¿WHO?](https://whospain.com)** | Angular, Laravel, MySQL | Breve descripción del proyecto y su propósito. | [🔗 Ver Proyecto](https://github.com/marcsabinadev/who-dev) |
+| **[¿WHO?](https://whospain.com)** | Angular, Laravel, MySQL | Breve descripción del proyecto y su propósito. | [🔗 Ver Repositorio](https://github.com/marcsabinadev/who-dev) |
 
 </div>
 
