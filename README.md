@@ -5,7 +5,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
 
 ---
 
-### 🚀 Habilidades Técnicas
+## 🚀 Habilidades Técnicas
 
 <div align="center">
   <table>
