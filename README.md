@@ -53,8 +53,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
 
 🚀 **Mis Proyectos Destacados**
 
-📌 **[Proyecto 1](URL_DEL_PROYECTO_1)**  
-🛠 *Tecnologías*: Angular, Laravel, MySQL  
-📖 *Descripción*: Breve descripción del proyecto y su propósito.  
-🔗 **[Ver Proyecto](URL_DEL_PROYECTO_1)**
+| Proyecto | Tecnologías | Descripción | Enlace |
+|----------|------------|-------------|--------|
+| **[Proyecto 1](URL_DEL_PROYECTO_1)** | Angular, Laravel, MySQL | Breve descripción del proyecto y su propósito. | [🔗 Ver Proyecto](URL_DEL_PROYECTO_1) |
 
