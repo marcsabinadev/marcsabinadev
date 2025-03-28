@@ -46,12 +46,17 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><b>🔧 Gestión de Versiones</b></td>
+      <td align="center"><b>🔧 Gestión de Versiones</b></td>
+      <td align="center"><b>🎨 Diseño y UX/UI</b></td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td>
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/> 
         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/> 
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white"/> 
       </td>
     </tr>
   </table>
