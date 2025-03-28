@@ -74,7 +74,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
 
 📫 **Contáctame** 
 
-- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) Email: [marcsabinadev@gmail.com](mailto:marcsabinadev@gmail.com)  
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) LinkedIn: [Marc Sabina Sala](https://www.linkedin.com/feed/?nis=true) 
+- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) [marcsabinadev@gmail.com](mailto:marcsabinadev@gmail.com)  
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [Marc Sabina Sala](https://www.linkedin.com/feed/?nis=true) 
 
 ¡Gracias por visitar mi perfil! 😊
