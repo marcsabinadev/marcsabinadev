@@ -82,7 +82,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
 
 📫 **Contáctame** 
 
-<a href="https://www.linkedin.com/feed/?nis=true"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a> - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+<a href="https://www.linkedin.com/feed/?nis=true"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a> [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcsabinadev@gmail.com)
 
 
 ¡Gracias por visitar mi perfil! 😊
