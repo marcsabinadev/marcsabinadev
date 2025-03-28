@@ -85,5 +85,4 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
 <a href="https://www.linkedin.com/feed/?nis=true"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 
 ¡Gracias por visitar mi perfil! 😊
-![Gracias](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
