@@ -66,7 +66,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
   
 | Proyecto | Desarrolladores | Tecnologías | Descripción | Enlace |
 |----------|-----------------|-------------|-------------|--------|
-| **[¿WHO?](https://whospain.com)** | [marcsabinadev](https://github.com/marcsabinadev) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![Liquid](https://img.shields.io/badge/-Liquid-FF4500?style=flat&logo=shopify&logoColor=white) | ¿WHO? es una proyecto de comercio electrónico que se centra en la venta de camisetas personalizadas con estampados únicos. La web está diseñada para ofrecer una interfaz amigable, donde los usuarios pueden ver los productos disponibles, obtener detalles sobre cada camiseta, y realizar su compra de manera segura. | [🔗 Ver Repositorio](https://github.com/marcsabinadev/who-dev) |
+| **[🔗 ¿WHO?](https://whospain.com)** | [marcsabinadev](https://github.com/marcsabinadev) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![Liquid](https://img.shields.io/badge/-Liquid-FF4500?style=flat&logo=shopify&logoColor=white) | ¿WHO? es una proyecto de comercio electrónico que se centra en la venta de camisetas personalizadas con estampados únicos. La web está diseñada para ofrecer una interfaz amigable, donde los usuarios pueden ver los productos disponibles, obtener detalles sobre cada camiseta, y realizar su compra de manera segura. | [🔗 Ver Repositorio](https://github.com/marcsabinadev/who-dev) |
 
 </div>
 
