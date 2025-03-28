@@ -60,7 +60,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
       </td>
     </tr>
     <tr>
-        <td align="center"><b>🔧 Editores de Código</b></td>
+        <td align="center" colspan=2><b>🔧 Editores de Código</b></td>
     </tr>
   </table>
 </div>
