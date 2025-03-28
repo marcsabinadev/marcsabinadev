@@ -57,7 +57,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
   
 | Proyecto | Tecnologías | Descripción | Enlace |
 |----------|------------|-------------|--------|
-| **[¿WHO?](https://whospain.com)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Liquid](https://img.shields.io/badge/-Liquid-FF4500?style=flat&logo=shopify&logoColor=white) | Proyecto de una tienda online donde se comercializa camisetas con estampados. | [🔗 Ver Repositorio](https://github.com/marcsabinadev/who-dev) |
+| **[¿WHO?](https://whospain.com)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![Liquid](https://img.shields.io/badge/-Liquid-FF4500?style=flat&logo=shopify&logoColor=white) | Proyecto de una tienda online donde se comercializa camisetas con estampados. | [🔗 Ver Repositorio](https://github.com/marcsabinadev/who-dev) |
 
 
 </div>
