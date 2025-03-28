@@ -45,10 +45,10 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🔧 Gestión de Versiones</b></td>
+      <td align="center" colspan="2"><b>🔧 Gestión de Versiones</b></td>
     </tr>
     <tr>
-      <td>
+      <td align="center" colspan="2">
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/> 
         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/> 
       </td>
