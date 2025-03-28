@@ -18,7 +18,7 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
         <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"/> 
         <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white"/> 
         <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/> 
         <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/> 
         <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/> 
       </td>
