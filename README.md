@@ -59,6 +59,9 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
         <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white"/> 
       </td>
     </tr>
+    <tr>
+        <td align="center"><b>🔧 Editores de Código</b></td>
+    </tr>
   </table>
 </div>
 
