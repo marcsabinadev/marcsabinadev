@@ -78,11 +78,12 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
 
 </div>
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=marcsabinadev&show_icons=true&theme=dark)
+
 ---
 
 📫 **Contáctame** 
 
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) [marcsabinadev@gmail.com](mailto:marcsabinadev@gmail.com)  
 <a href="https://www.linkedin.com/feed/?nis=true"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 
 ¡Gracias por visitar mi perfil! 😊
