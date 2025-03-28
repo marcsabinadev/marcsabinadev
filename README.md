@@ -44,6 +44,18 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
         <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white"/> 
       </td>
     </tr>
+    <tr>
+      <td align="center"><b>🔧 Gestión de Versiones</b></td>
+      <td align="center"><b>💻 GitHub</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/> 
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/> 
+      </td>
+    </tr>
   </table>
 </div>
 
