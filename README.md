@@ -75,8 +75,6 @@ Me especializo en el desarrollo frontend utilizando tecnologías modernas para o
 
 ## 💼 Proyectos
 
-🚀 **Mis Proyectos Destacados**
-
 <div align="center">
   
 | Proyecto | Desarrolladores | Tecnologías | Descripción | Enlace |
